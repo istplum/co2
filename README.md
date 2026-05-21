@@ -118,6 +118,12 @@ Planned extensions include:
 
 Countries with the largest absolute changes labelled.
 
+![Total emissions scatterplot](figs/emissions_scatter_log.png)
+
+---
+
 ### Per capita emissions: 2000 vs 2023
 
 Regional patterns and outliers highlighted using logarithmic scales.
+
+![Per capita scatterplot](figs/percap_scatter_log.png)
